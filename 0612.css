@@ -1,0 +1,55 @@
+body{
+    background-image:url(images/pattern.png);
+
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    width:500px;
+    justify-content:center;
+    margin: 20px auto;
+}
+h3{
+    background-color: rgb(255, 255, 255);
+    width:500px;
+    justify-content:center;
+    margin: 20px auto;
+}
+
+
+body { padding: 20px; }
+        .list-group-item {
+            display: flex;
+            justify-content: space-between; /* 讓內容左右分散對齊 */
+            align-items: center;
+        }
+        body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+h2{
+    background-color: rgb(255, 255, 255);
+    width:500px;
+    justify-content:center;
+    margin: 20px auto;
+}
+
+#display {
+    font-size: 60px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+input {
+    width: 100px;
+    padding: 8px;
+    font-size: 18px;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
